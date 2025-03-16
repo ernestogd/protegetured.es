@@ -1,2 +1,2 @@
 # protegetured.es
-Protegemos tu red frente a ciberamenazas con soluciones avanzadas en seguridad informática: prevención, detección y respuesta ante ataques.
+Esta página nace con el propósito de recopilar y compartir todo lo que he aprendido a lo largo de estos años. Aquí encontrarás contenido técnico, pruebas de concepto, análisis de vulnerabilidades y otros recursos que reflejan mi trayectoria y experiencia en este campo. Mi objetivo es que este espacio sirva tanto como un archivo personal como una fuente de información para otros entusiastas y profesionales de la ciberseguridad.
